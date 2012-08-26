@@ -1,0 +1,1 @@
+$socket.gets(9) #Clear out that thar pre-chunk..

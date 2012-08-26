@@ -1,0 +1,5 @@
+username=umby24
+password=
+ip=smp.mcsteamed.net
+port=25565
+online=true
